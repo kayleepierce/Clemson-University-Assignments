@@ -18,4 +18,8 @@ This repository contains a collection of my coursework and assignments completed
   - [CPSC 2310 - Introduction to Computer Organization]
   - [CPSC 3520 - Programming Systems]
   - [CPSC 3720 - Introduction to Software Engineering]
+ 
+- Fall 2024
+  - [CPSC 4200 - Computer Security Principles]
+  - [CPSC 4300 - Applied Data Science] 
 
